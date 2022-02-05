@@ -1,0 +1,21 @@
+{
+    "name": "session-dark",
+    "displayName": "Session Dark",
+    "description": "Another dark theme to help stare at the screen.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Session Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Session Dark-color-theme.json"
+            }
+        ]
+    }
+}
